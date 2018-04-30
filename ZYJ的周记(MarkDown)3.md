@@ -243,6 +243,6 @@ private void viewPagerButton() {
 
 > 这就是APP目前的样子了，还会修改，会再添加一些新功能。
 > 
-> 目前APP先放一放了，花多点时间和精力再进修一下JAVA和An> droid。
+> 目前APP先放一放了，花多点时间和精力再进修一下JAVA和Android。
 > 
 
